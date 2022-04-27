@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/superficial_water_extend" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
